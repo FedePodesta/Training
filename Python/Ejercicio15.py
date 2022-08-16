@@ -34,5 +34,5 @@ precio, cantidad = askForInfo(nombre)
 if precio == 0 and cantidad == 0:
     print("Lo sentimos no existe dicho producto")
 else:
-    print(f"El producto {nombre} vale {precio}$ y tenemos {cantidad} de unidades")
+    print(f"El producto {nombre} vale {precio}$ y tenemos {cantidad} de unidades ")
 
